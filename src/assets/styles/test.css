@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: skyblue;
+    background: url(../images/backage.png) 0 0 no-repeat;
+}
