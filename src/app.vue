@@ -1,21 +1,21 @@
 <template>
-  <div>
-  </div>
+   <div id="app"> 
+      {{message}}
+   </div> 
 </template>
 
+
 <script>
-export default {
-  name: '',
 
-  data () {
-    return {
+export default{
+    date(){
+      return{
+        message:"sss"
+      }
     }
-  },
-
-  methods: {}
-}
+   }
 </script>
 
-<style lang='stylus' rel='stylesheet/stylus'>
+<style lang="stylus" scoped>
 
 </style>
